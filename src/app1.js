@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import styled, { ThemeProvider } from 'styled-components';
-import GlobalStyle from 'styles/GlobalStyle';
+import GlobalStyle from 'styles/global-style';
 import themes from 'styles/themes';
 
 // Main app container styles

@@ -1,7 +1,7 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import ReactDOM from 'react-dom';
-import App from './App';
+import App from './app';
 import themes from 'styles/themes';
 
 const app = <App themes={themes} />;
